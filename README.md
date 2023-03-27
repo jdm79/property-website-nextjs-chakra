@@ -1,5 +1,10 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
+## Property Website
+
+This is a template of an existing website made using a Youtube vid. The RAPID API tokens in commit history have been reset. Chakra UI is pretty good, but I've finally fallen for Tailwind. 
+
+
 ## Getting Started
 
 First, run the development server:
